@@ -11,7 +11,7 @@
 Directions:
 
 * In DataGrip, [connect to your local mysql instance](https://www.jetbrains.com/help/idea/connecting-to-a-database.html#mysql)
-**(for those not using DataGrip, you can execute the files in the command line, using the following syntax: ```mysql -u your_mysql_user -p < the_name_of_the_file.sql```)
+**(for those not using DataGrip, you can execute the files in the command line, using the following syntax: ```mysql -u your_mysql_user -p the_name_of_your_db< the_name_of_the_file.sql```)
 * Create your pokemon schema
 * Unpack the pokemon_sql.zip files
 * One by one execute these files making sure to check your pokemon schema
@@ -62,4 +62,4 @@ Example:
 
 For Part 4 specifically also leave a comment explaining how your query is deciding who the strongest trainer is
 
-Once all of that is done, submit your file by saving it in the "answers" directory and commititing it to your fork.
+Once all of that is done, submit your file by saving it in the "answers" directory and committing it to your fork.
