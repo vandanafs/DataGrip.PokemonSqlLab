@@ -14,7 +14,7 @@ Directions:
 **(for those not using DataGrip, you can execute the files in the command line, using the following syntax: ```mysql -u your_mysql_user -p the_name_of_your_db< the_name_of_the_file.sql```)
 * Create your pokemon schema
 * Unpack the pokemon_sql.zip files
-* One by one execute these files making sure to check your pokemon schema
+* One by one execute imports from these files, making sure to check your pokemon schema
 
 From here you should have all the pokemon data in your mysql schema. Feel free to explore the data and perform a few select statements to see what the data looks like.
 
